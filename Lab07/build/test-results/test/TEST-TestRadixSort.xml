@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRadixSort" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-08-31T16:21:19" hostname="DESKTOP-RR4I1PM" time="0.037">
+  <properties/>
+  <testcase name="testSortDigit1()" classname="TestRadixSort" time="0.03"/>
+  <testcase name="testSortDigit2()" classname="TestRadixSort" time="0.002"/>
+  <testcase name="testSort1()" classname="TestRadixSort" time="0.001"/>
+  <testcase name="testSort2()" classname="TestRadixSort" time="0.001"/>
+  <system-out><![CDATA[[ 011 001 000 010 111 101 110 ]
+[ 110 000 010 111 101 011 001 ]
+[ 1000 0011 1001 0111 0101 ]
+[ 1000 1001 0101 0011 0111 ]
+[ 1000 1001 0011 0101 0111 ]
+[ 0011 0101 0111 1000 1001 ]
+[ 110 000 010 111 101 011 001 ]
+[ 000 101 001 110 010 111 011 ]
+[ 000 001 010 011 101 110 111 ]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
